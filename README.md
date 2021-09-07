@@ -1,5 +1,5 @@
-# FlushedOut
-Flushed, the new multi-purpose bot maintained by Winter78#8711 and Neritox#4417!
+# FlushedOut Robot
+Flushed, or FlushedOut (or FlushedOut Robot), is the new multi-purpose bot maintained by Winter78#8711 and Neritox#4417!
 
 ## About
 This bot is created as a multi-purpose bot with the target for being fun and easy to use.

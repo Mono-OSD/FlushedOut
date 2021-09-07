@@ -29,3 +29,4 @@ Since we don't support many features yet and have many bug fixes planned, we rec
 * Ticket Tool (ticketing)
 
 Those 5 bots are good for verification, ticketing, moderation (in general) and logging.
+Thanks for reading!

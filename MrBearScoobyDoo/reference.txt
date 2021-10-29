@@ -1,0 +1,4 @@
+To refer for stuff:
+@client.command / @bot.command = @commands.command
+
+client.xyz = self.client.xyz

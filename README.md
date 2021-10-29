@@ -1,4 +1,5 @@
 # FlushedOut Robot
+> **Note: This code is now deprecated and the code is now open-source.**
 Flushed, or FlushedOut (or FlushedOut Robot), is the new multi-purpose bot maintained by Winter78#8711 and Neritox#4417!
 
 ## About
